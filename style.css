@@ -17,7 +17,7 @@ button {
 }
 #end {
   position: absolute;
-  min-width: 100%
+  min-width: 100%;
   min-height: 100%;
   display: flex;
   align-items: center;
@@ -47,7 +47,7 @@ button {
   margin-bottom: 20px;
 }
 #controlls button {
-  width: 100%
+  width: 100%;
   background-colour: white;
   border: 1px solid lightgray;
 }
