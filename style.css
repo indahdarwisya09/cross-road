@@ -25,7 +25,7 @@ button {
   visibility: hidden;
 }
 #end button {
-  background-colour: red;
+  background-color: red;
   padding: 20px 50px 20px 50px;
   font-family: inherit;
   font-size: inherit;
