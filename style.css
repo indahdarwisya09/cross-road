@@ -48,7 +48,7 @@ button {
 }
 #controlls button {
   width: 100%;
-  background-colour: white;
+  background-color: white;
   border: 1px solid lightgray;
 }
 #controlls button:first-of-type {
